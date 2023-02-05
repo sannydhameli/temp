@@ -1,5 +1,9 @@
  hii bro and sis, 
 my name is dhameliya sanny
 
+<<<<<<< HEAD
 i am study at daiict gandhinagar.
 
+=======
+i am working at tekion right now.
+>>>>>>> temp
